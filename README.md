@@ -8,5 +8,5 @@ Semantic Similarity is the task of determining how similar two sentences are, in
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/test1/blob/main/dany_petkar.jpg)
 
